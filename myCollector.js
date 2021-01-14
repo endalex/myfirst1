@@ -34,6 +34,8 @@ fs.writeFile("result.txt", "Hello every!", function(err) {
     console.log("The file was saved!");
 }); 
 
+console.log(selam)
+
 // Or
 // fs.writeFileSync('result.txt-sync', 'Hey there!');
 
